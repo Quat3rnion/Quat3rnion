@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Quaternion</h1>
+<h3 align="center">A passionate fullstack developer from the United States</h3>
 
-<!--
-**Quat3rnion/Quat3rnion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=quat3rnion&label=Profile%20views&color=0e75b6&style=flat" alt="quat3rnion" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **gigging.app**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **rust, rsty stack, golang**
+
+- 📫 How to reach me **quaternion@lumina.software**
+
+<h3 align="left">Languages:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,yew,go,nodejs,js,jquery,html,css,tailwind,php,bash,c,cpp,cs,dotnet,deno,md,regex"/>
+</p>
+
+<h3 align="left">Tools:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,phpstorm,vscode,docker,git,github,laravel,nginx,arch,postman,vim"
+</p>
+
+<h3 align="left">Databases:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis"/>
+</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=quat3rnion&show_icons=true&theme=onedark&locale=en" alt="quat3rnion" /></p>
+
