@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quat3rnion&label=Profile%20views&color=0e75b6&style=flat" alt="quat3rnion" /> </p>
 
-- 🔭 I’m currently working on **gigging.app**
+- 🔭 I’m currently working on **giging.app**
+
+- ✨ I'm currently creating <a href="https://github.com/polyphony-chat/symfonia">Symfonia</a>
 
 - 💬 Ask me about **rust, rsty stack, golang**
 
