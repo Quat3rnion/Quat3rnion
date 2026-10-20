@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **quaternion@lumina.software**
 
+- ☕ Support me on <a href="https://ko-fi.com/quat3rnion">Ko-fi</a>
+
+<p align="left"><a href="https://ko-fi.com/quat3rnion"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a></p>
+
 <h3 align="left">Languages:</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=rust,yew,go,nodejs,js,jquery,html,css,tailwind,php,bash,c,cpp,cs,dotnet,deno,md,regex"/>
