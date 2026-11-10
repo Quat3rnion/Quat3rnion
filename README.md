@@ -8,6 +8,7 @@
 - 🧠 I work on AI/ML tooling and LLM inference infrastructure
 
 - 🔭 Recent projects:
+  - <a href="https://github.com/Quat3rnion/muse-memory">muse-memory</a>: long-term memory for opencode agents, with a self-hosted Mem0 stack
   - <a href="https://github.com/Quat3rnion/lanternfish">lanternfish</a>: traces how a llama.cpp model routes each token through its layers and experts
   - <a href="https://github.com/Quat3rnion/halogen-dashboard">halogen-dashboard</a>: realtime dashboard for the Halogen LLM inference server
   - <a href="https://github.com/Quat3rnion/bf16-to-hgn">bf16-to-hgn</a>: converts BF16 safetensors to the Halogen v2 format
